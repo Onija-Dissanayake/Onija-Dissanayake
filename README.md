@@ -1,54 +1,73 @@
-<img width="1000" height="400" alt="terminal-banner" src="https://github.com/user-attachments/assets/8a537021-c68b-43a1-9dd7-ab7432041fe8" />
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3YTVhMmE3My05N2FmLTRhMjctODI0YS1mMDVhYzNmYjYwY2EAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLv8cm5vTcjtywkFoz8FmFMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplZDY4M2M1ZS00YTA5LTRjYTYtOGVkZS03YWY5NDY0OTliYzRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0OHu4U2bH7XAKIBXa4oHMwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgghQQc2a4oaj35cIkIa7Y8nPTz4M4biFLa4dXznSwgQpakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMTy2LjAbZlOtaOFUHwF2DYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBOyLKHMdW48bNhWf6TKDx9q5SouNjsdp+I+WevOs7pP2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjdhNWEyYTczLTk3YWYtNGEyNy04MjRhLWYwNWFjM2ZiNjBjYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjgwYmM3YThhLWViNWEtNDgyMy1iMmRiLTk3NzkxZjFiZTliZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCFBBzZrihqPflwiQhrtjyc9PPgzhuIUtrh1fOdLCBClqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggw4S6pkny9PFnGnX+28tkIA5RzXrZPWFeVBVxCMjvmqaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7/hxffeCVeb+/gpL6OpOOCtDy0cK9MFX3o5lSvz/2/90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNGa2ZOITYFoAEYw8nBPxfTFB0taobhVzNaig9wlUKs/MmicyChYcFPhs54Er29Bgyb3a228N1QJqgAdu7N4Yx4=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#161b22"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7c3aed"/>
-      <stop offset="1" stop-color="#22d3ee"/>
-    </linearGradient>
-    <style>
-      .t   { font-size: 17px; fill: #c9d1d9; }
-      .p   { fill: #7ee787; }
-      .c   { fill: #79c0ff; }
-      .s   { fill: #a5d6ff; }
-      .k   { fill: #ff7b72; }
-      .dim { fill: #8b949e; }
-      .line { opacity: 0; animation: show 0.01s forwards; }
-      .l1 { animation-delay: 0.4s; } .l2 { animation-delay: 1.4s; } .l3 { animation-delay: 2.0s; }
-      .l4 { animation-delay: 2.6s; } .l5 { animation-delay: 3.2s; } .l6 { animation-delay: 4.2s; }
-      .l7 { animation-delay: 4.8s; } .l8 { animation-delay: 5.4s; }
-      @keyframes show { to { opacity: 1; } }
-      .cursor { animation: blink 1s steps(1) infinite; animation-delay: 6.0s; opacity: 0; }
-      @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
-      .glow { animation: pulse 4s ease-in-out infinite; }
-      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: .7; } }
-    </style>
-  </defs>
+[README.md](https://github.com/user-attachments/files/34194947/README.md)
+<!-- Header: animated terminal banner (upload terminal-banner.svg next to this README) -->
+<p align="center">
+  <img src="./terminal-banner.svg" alt="Terminal intro: Onija Dissanayake, Computer Science student at the University of Westminster" width="100%" />
+</p>
 
-  <rect width="1000" height="400" rx="16" fill="url(#bg)"/>
-  <rect class="glow" x="0" y="396" width="1000" height="4" fill="url(#accent)"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=System.out.println(%22Hello%2C+World!%22);print(%22Open+to+12-month+placements%22);git+commit+-m+%22learning+every+day%22" alt="Typing code lines" />
+</p>
 
-  <!-- window bar -->
-  <rect width="1000" height="42" rx="16" fill="#21262d"/>
-  <rect y="26" width="1000" height="16" fill="#21262d"/>
-  <circle cx="28" cy="21" r="7" fill="#ff5f56"/>
-  <circle cx="52" cy="21" r="7" fill="#ffbd2e"/>
-  <circle cx="76" cy="21" r="7" fill="#27c93f"/>
-  <text x="500" y="27" text-anchor="middle" class="dim" font-size="14">onija@westminster: ~/profile</text>
+<p align="center">
+  <a href="https://www.linkedin.com/in/onijadissanayake"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+  <a href="mailto:onijadissanayaka@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=7C3AED" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Onija-Dissanayake&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-  <!-- terminal lines -->
-  <g class="t">
-    <text class="line l1" x="32" y="86"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> whoami</text>
-    <text class="line l2" x="32" y="116">Onija Dissanayake · CS student @ University of Westminster · London, UK</text>
-    <text class="line l3" x="32" y="156"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> cat stack.txt</text>
-    <text class="line l4" x="32" y="186"><tspan class="k">Java</tspan> · <tspan class="k">Python</tspan> · <tspan class="k">JavaScript</tspan> · <tspan class="k">TypeScript</tspan> · <tspan class="k">React</tspan> · <tspan class="k">HTML/CSS</tspan> · <tspan class="k">Git</tspan></text>
-    <text class="line l5" x="32" y="226"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> ./status.sh</text>
-    <text class="line l6" x="32" y="256"><tspan class="s">[✓]</tspan> First-year average: 81%</text>
-    <text class="line l7" x="32" y="286"><tspan class="s">[✓]</tspan> Intern @ Hatton National Bank  <tspan class="dim">// digital banking support</tspan></text>
-    <text class="line l8" x="32" y="316"><tspan class="s">[…]</tspan> Seeking a 12-month industrial placement  <tspan class="dim">// let's talk</tspan></text>
-    <text class="cursor" x="32" y="356"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan fill="#c9d1d9">▌</tspan></text>
-  </g>
-</svg>
+---
+
+### `> about.java`
+
+```java
+public class Onija extends Student {
+    String degree      = "BSc (Hons) Computer Science, University of Westminster (2025-2028)";
+    String firstYear   = "81% average";
+    String[] modules   = { "Object-Oriented Programming", "Database Systems",
+                           "Advanced Client-Side Development", "Data Structures & Algorithms" };
+    String[] learning  = { "SQL", "Spring Boot", "AWS Cloud Practitioner" };
+    String[] speaks    = { "English", "Sinhala" };
+    String lookingFor  = "12-month industrial placement in IT / software engineering";
+}
+```
+
+### `> stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,spring,mysql,aws,git,github,idea,vscode&theme=dark&perline=7" />
+</p>
+
+### `> ls ~/projects`
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🌿 [**Life on Land**](https://onija-dissanayake.github.io/life-on-land-website) | Team-of-four sustainability website. I built the JavaScript features: a three-step profile builder with a live progress bar, and an SVG sitemap. Deployed on GitHub Pages. | HTML, CSS, JavaScript |
+| ✈️ **Air Traffic Analyser** | Command-line tool that loads airport departure CSVs, calculates ten statistics (delay rates, airline market share…) and draws auto-scaling histograms. | Python |
+| 🛒 [**products-api**](https://github.com/Onija-Dissanayake/products-api) | REST API for managing products. | Java, Spring Boot |
+
+### `> cat experience.log`
+
+```diff
++ 2026-now    Barista (part-time)                  Starbucks, Edgware
++ 2026        Intern, digital banking support      Hatton National Bank, Colombo
++ 2025-2026   President, UNESCO Club               Ananda College
+              > represented Sri Lanka at the World Youth Cultural Heritage Symposium, Athens
+```
+
+### `> git log --stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Onija-Dissanayake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onija-Dissanayake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onija-Dissanayake&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<!-- Contribution snake: generated daily by .github/workflows/snake.yml into the "output" branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Onija-Dissanayake/Onija-Dissanayake/output/snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Onija-Dissanayake/Onija-Dissanayake/output/snake.svg" />
+  </picture>
+</p>
